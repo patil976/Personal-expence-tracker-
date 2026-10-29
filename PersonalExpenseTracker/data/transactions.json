@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2026-10-29",
+        "type": "income",
+        "category": "Pocket Money",
+        "amount": 2500.0,
+        "payment_method": "-",
+        "description": "",
+        "id": "TXN0001"
+    },
+    {
+        "date": "2026-10-29",
+        "type": "expense",
+        "category": "Food",
+        "amount": 350.0,
+        "payment_method": "Cash",
+        "description": "",
+        "id": "TXN0002"
+    }
+]
